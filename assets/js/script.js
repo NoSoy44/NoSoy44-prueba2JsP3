@@ -12,6 +12,7 @@ $(document).ready(function() {
 });
 });
 
+//Funcion 2 saludar
 $(document).ready(function() {
   $('#animar2').click(function() {
   $('#brazo-derecho').css({ 'transform': 'rotate(175deg)'});
