@@ -1,4 +1,3 @@
-/* styles.css */
 
 body {
     display: flex;
@@ -13,16 +12,16 @@ body {
 }
 
 #animar, #animar2{
-    margin: 500px;
+    
 }
 
-#character {
+#pikachu {
     position: relative;
     width: 200px;
     height: 400px;
 }
 
-#character div {
+#pikachu div {
     position: absolute;
     transition: all 1s ease;
 }
@@ -45,7 +44,7 @@ body {
 }
 
 #brazo-derecho {
-    right: -400px;
+    right: -188px;
     top: 150px;
 }
 
