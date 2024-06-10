@@ -7,9 +7,12 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
+    background-image: url('../img/FondoPikachu.png');
+    position: cover;
+    background-repeat: no-repeat;
 }
 
-#animar{
+#animar, #animar2{
     margin: 500px;
 }
 
@@ -31,7 +34,7 @@ body {
 
 #brazo-izquierdo img,
 #brazo-derecho img {
-    width: 120px;
+    width: 110px;
     height: auto;
 }
 
@@ -48,8 +51,8 @@ body {
 
 #ojo-izquierdo img,
 #ojo-derecho img {
-    width: 100px;
-    height: 100px
+    width: 60px;
+    height: 60px
 }
 
 #ojo-izquierdo {
@@ -63,7 +66,7 @@ body {
 }
 
 #boca img {
-    width: 150px;
+    width: 120px;
     height: auto;
 }
 
