@@ -1,15 +1,89 @@
-.cnot{
+/* styles.css */
+
+body {
     display: flex;
-    align-items: center;
     justify-content: center;
-    gap: 65px;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
 }
 
-.contenedores{
-    background-color: #d3d3d3;
-    height: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid #000;
+#animar{
+    margin: 500px;
+}
+
+#character {
+    position: relative;
+    width: 200px;
+    height: 400px;
+}
+
+#character div {
+    position: absolute;
+    transition: all 1s ease;
+}
+
+#cuerpo img {
+    width: 500px;
+    height: auto;
+}
+
+#brazo-izquierdo img,
+#brazo-derecho img {
+    width: 120px;
+    height: auto;
+}
+
+#brazo-izquierdo {
+    left: -100px;
+    top: 150px;
+
+}
+
+#brazo-derecho {
+    right: -400px;
+    top: 150px;
+}
+
+#ojo-izquierdo img,
+#ojo-derecho img {
+    width: 100px;
+    height: 100px
+}
+
+#ojo-izquierdo {
+    left: -50px;
+    top: 50px;
+}
+
+#ojo-derecho {
+    right: -50px;
+    top: 50px;
+}
+
+#boca img {
+    width: 150px;
+    height: auto;
+}
+
+#boca {
+    top: -50px;
+    left: 50px;
+}
+
+#nariz {
+    top: -50px;
+    left: 75px;
+}
+
+#cola img {
+    width: 250px;
+    height: auto;
+}
+
+#cola {
+    bottom: -200px;
+    left: -100px;
+
 }
