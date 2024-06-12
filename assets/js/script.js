@@ -12,10 +12,11 @@ $(document).ready(function () {
   });
 });
 
-//FUncion 2
-$(document).ready(function () {
-  $('#animar2').click(function () {
-    $('#brazo-derecho').css({ 'transform': 'rotate(175deg)' });
+
+//Funcion 2 saludar
+$(document).ready(function() {
+  $('#animar2').click(function() {
+  $('#brazo-derecho').css({ 'transform': 'rotate(175deg)'});
 
   });
 });
