@@ -48,6 +48,7 @@ $(document).ready(function () {
   });
 });
 
+//FUncion 6
 $(document).ready(function () {
   $('#moverCola').click(function () {
       $('#cola').css({
