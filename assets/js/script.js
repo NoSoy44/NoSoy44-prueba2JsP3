@@ -8,7 +8,7 @@ $(document).ready(function () {
     $('#ojo-derecho').css({ left: '266px', top: '233px' });
     $('#boca').css({ top: '300px', left: '185px' });
     $('#nariz').css({ top: '180px', left: '90px' });
-    $('#cola').css({ top: '200px', left: '333px' });
+    $('#cola').css({ top: '234px', left: '320px' });
   });
 });
 
@@ -47,5 +47,15 @@ $(document).ready(function () {
     }, 1000);
   });
 });
+
+$(document).ready(function () {
+  $('#moverCola').click(function () {
+      $('#cola').css({
+          'animation': 'muevelaColita 2s ease-in-out infinite'
+      });
+  });
+});
+
+
 
 

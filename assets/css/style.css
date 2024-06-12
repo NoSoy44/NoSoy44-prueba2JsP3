@@ -84,5 +84,20 @@ body {
 #cola {
     bottom: -200px;
     left: -100px;
+    z-index: -1;
+    transform-origin: bottom left;
 
 }
+
+@keyframes muevelaColita {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
