@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Resident Evil Village",
+    "imagen": "https://m.media-amazon.com/images/I/71R5Y7NMG8L._AC_UF894,1000_QL80_.jpg",
+    "descripcion": "Experimenta el terror con Resident Evil Village"
+  },
+  {
+    "nombre": "The Last of Us Part I",
+    "imagen": "https://www.latercera.com/resizer/apllGY0UUwbVheAsfSDzT4Rsuvk=/arc-anglerfish-arc2-prod-copesa/public/JHBXC7WHDVERJE4CAVSRZQXEAM.jpg",
+    "descripcion": "Acompaña a Joe en una Epica aventura"
+  },
+  {
+    "nombre": "Ghost of Tsushima",
+    "imagen": "https://images.squarespace-cdn.com/content/v1/5b981d61ec4eb7dc9c7aac8a/8ccc0263-34cd-4bf7-9608-77f2e170ca46/Ghost+of+Tsushima_20230403184910.jpg",
+    "descripcion": "Conviertete en un guerrero samurai!"
+  }
+]
