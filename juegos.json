@@ -1,17 +1,41 @@
 [
-  {
-    "nombre": "Resident Evil Village",
-    "imagen": "https://m.media-amazon.com/images/I/71R5Y7NMG8L._AC_UF894,1000_QL80_.jpg",
-    "descripcion": "Experimenta el terror con Resident Evil Village"
-  },
-  {
-    "nombre": "The Last of Us Part I",
-    "imagen": "https://hips.hearstapps.com/hmg-prod/images/the-last-of-us-parte-1-1-1662110548.jpg",
-    "descripcion": "Acompaña a Joe en una Epica aventura"
-  },
-  {
-    "nombre": "Ghost of Tsushima",
-    "imagen": "https://images.squarespace-cdn.com/content/v1/5b981d61ec4eb7dc9c7aac8a/8ccc0263-34cd-4bf7-9608-77f2e170ca46/Ghost+of+Tsushima_20230403184910.jpg",
-    "descripcion": "Conviertete en un guerrero samurai!"
-  }
+    {
+        "nombre": "Resident Evil Village",
+        "imagen": "https://m.media-amazon.com/images/I/71R5Y7NMG8L._AC_UF894,1000_QL80_.jpg",
+        "descripcion": "Experimenta el terror con Resident Evil Village",
+        "tipo_de_juego1": "Horror",
+        "plataforma_de_juego": "PlayStation 5",
+        "fecha_lanzamiento_juego": "2021-05-07",
+        "desarrollador_juego": "Capcom",
+        "trailer_juego": "https://www.youtube.com/watch?v=5Z8H-AUpXZc",
+        "caracteristica_juego": "Single Player",
+        "requisitos_juegos": "8 GB RAM, 50 GB Disk Space",
+        "precio_juego": "$59.99"
+    },
+    {
+        "nombre": "The Last of Us Part I",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/the-last-of-us-parte-1-1-1662110548.jpg",
+        "descripcion": "Acompaña a Joe en una Epica aventura",
+        "tipo_de_juego1": "Action-Adventure",
+        "plataforma_de_juego": "PlayStation 5",
+        "fecha_lanzamiento_juego": "2022-09-02",
+        "desarrollador_juego": "Naughty Dog",
+        "trailer_juego": "https://www.youtube.com/watch?v=W2Wnvvj33Wo",
+        "caracteristica_juego": "Single Player",
+        "requisitos_juegos": "8 GB RAM, 60 GB Disk Space",
+        "precio_juego": "$69.99"
+    },
+    {
+        "nombre": "Demon Souls",
+        "imagen": "https://cdn.andro4all.com/andro4all/2020/06/Demons-Souls-Remake-1.jpg",
+        "descripcion": "Vuelve la leyenda con Demon Souls",
+        "tipo_de_juego1": "RPG",
+        "plataforma_de_juego": "PlayStation 5",
+        "fecha_lanzamiento_juego": "2020-11-12",
+        "desarrollador_juego": "Bluepoint Games",
+        "trailer_juego": "https://www.youtube.com/watch?v=jGUtTPRuGak",
+        "caracteristica_juego": "Single Player",
+        "requisitos_juegos": "8 GB RAM, 50 GB Disk Space",
+        "precio_juego": "$69.99"
+    }
 ]
